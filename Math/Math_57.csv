@@ -1,0 +1,10 @@
+bug_ID,variant_ID,process_lifetime,execute_time,run_failing_test_case_time,run_regression_test_case_time
+Math_57,2,4390,4287,4391,-
+Math_57,4,4456,4303,4457,-
+Math_57,6,4382,4267,4383,-
+Math_57,8,-,-,-,-
+Math_57,10,-,-,-,-
+Math_57,12,4352,4206,4352,-
+Math_57,14,4353,4218,4354,-
+Math_57,16,4471,4327,4472,-
+Math_57,18,4545,4350,4546,-

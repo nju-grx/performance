@@ -1,0 +1,12 @@
+bug_ID,variant_ID,process_lifetime,execute_time,run_failing_test_case_time,run_regression_test_case_time
+Math_79,2,-,-,-,-
+Math_79,4,-,-,-,-
+Math_79,6,-,-,-,-
+Math_79,8,-,-,-,-
+Math_79,10,-,-,-,-
+Math_79,12,165,31,165,-
+Math_79,14,-,-,-,-
+Math_79,16,228,37,229,-
+Math_79,18,-,-,-,-
+Math_79,20,241,32,242,-
+Math_79,22,-,-,-,-
