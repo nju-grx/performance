@@ -1,0 +1,13 @@
+id,compile_time,compile_result,process_failing_time,process_failing_result,process_failing_count,process_failing_cases,process_regression_time,process_regression_result,hotswap_time,hotswap_length,hotswap_failing_time,hotswap_failing_result,hotswap_failing_count,hotswap_failing_cases,hotswap_regression_time,side_effect
+2,94,true,428,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,11,16449,213,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,
+3,49,true,416,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,10,16494,225,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,
+4,39,true,415,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,10,16494,181,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,
+5,34,true,475,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,8,16506,273,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,
+6,45,true,452,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,15,16467,223,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,
+7,26,true,453,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): 0-],,,8,16521,152,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): 0-],,
+8,33,true,510,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): 0-],,,10,16521,159,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): 0-],,
+9,35,true,436,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): 0-],,,8,16532,171,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): 0-],,
+10,35,true,433,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,10,16484,152,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,
+11,20,true,422,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,10,16502,153,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,
+12,19,true,420,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,10,16502,164,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,
+13,20,true,428,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,,10,16502,170,false,1,[testArrayEquals(org.apache.commons.math.util.MathUtilsTest): null-],,

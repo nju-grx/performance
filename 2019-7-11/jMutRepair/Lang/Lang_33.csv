@@ -1,0 +1,13 @@
+id,compile_time,compile_result,process_failing_time,process_failing_result,process_failing_count,process_failing_cases,process_regression_time,process_regression_result,hotswap_time,hotswap_length,hotswap_failing_time,hotswap_failing_result,hotswap_failing_count,hotswap_failing_cases,hotswap_regression_time,side_effect
+2,34,true,147,false,1,[testToClass_object(org.apache.commons.lang3.ClassUtilsTest): null-],,,3,7149,10,false,1,[testToClass_object(org.apache.commons.lang3.ClassUtilsTest): null-],,
+3,32,false,,,,,,,,,,,,,,
+4,22,false,,,,,,,,,,,,,,
+5,17,false,,,,,,,,,,,,,,
+6,17,false,,,,,,,,,,,,,,
+7,23,true,131,false,1,[testToClass_object(org.apache.commons.lang3.ClassUtilsTest): null-],,,2,7149,6,false,1,[testToClass_object(org.apache.commons.lang3.ClassUtilsTest): null-],,
+8,13,true,188,false,1,[testToClass_object(org.apache.commons.lang3.ClassUtilsTest): null-],,,1,5799,7,false,1,[testToClass_object(org.apache.commons.lang3.ClassUtilsTest): null-],,
+9,13,false,,,,,,,,,,,,,,
+10,19,false,,,,,,,,,,,,,,
+11,13,false,,,,,,,,,,,,,,
+12,8,false,,,,,,,,,,,,,,
+13,11,true,142,false,1,[testToClass_object(org.apache.commons.lang3.ClassUtilsTest): null-],,,1,5799,6,false,1,[testToClass_object(org.apache.commons.lang3.ClassUtilsTest): null-],,

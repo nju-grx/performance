@@ -1,0 +1,13 @@
+id,compile_time,compile_result,process_failing_time,process_failing_result,process_failing_count,process_failing_cases,process_regression_time,process_regression_result,hotswap_time,hotswap_length,hotswap_failing_time,hotswap_failing_result,hotswap_failing_count,hotswap_failing_cases,hotswap_regression_time,side_effect
+2,36,true,132,false,1,[testReflectionObjectCycle(org.apache.commons.lang3.builder.HashCodeBuilderTest): Expected: <null> but was: -],,,2,7149,7,false,1,[testReflectionObjectCycle(org.apache.commons.lang3.builder.HashCodeBuilderTest): Expected: <null> but was: -],,
+3,30,false,,,,,,,,,,,,,,
+4,24,false,,,,,,,,,,,,,,
+5,22,false,,,,,,,,,,,,,,
+6,20,false,,,,,,,,,,,,,,
+7,24,true,120,false,1,[testReflectionObjectCycle(org.apache.commons.lang3.builder.HashCodeBuilderTest): Expected: <null> but was: -],,,1,7149,4,false,1,[testReflectionObjectCycle(org.apache.commons.lang3.builder.HashCodeBuilderTest): Expected: <null> but was: -],,
+8,17,true,119,false,1,[testReflectionObjectCycle(org.apache.commons.lang3.builder.HashCodeBuilderTest): Expected: <null> but was: -],,,1,5799,4,false,1,[testReflectionObjectCycle(org.apache.commons.lang3.builder.HashCodeBuilderTest): Expected: <null> but was: -],,
+9,11,false,,,,,,,,,,,,,,
+10,13,false,,,,,,,,,,,,,,
+11,9,false,,,,,,,,,,,,,,
+12,8,false,,,,,,,,,,,,,,
+13,11,true,112,false,1,[testReflectionObjectCycle(org.apache.commons.lang3.builder.HashCodeBuilderTest): Expected: <null> but was: -],,,1,5799,4,false,1,[testReflectionObjectCycle(org.apache.commons.lang3.builder.HashCodeBuilderTest): Expected: <null> but was: -],,
